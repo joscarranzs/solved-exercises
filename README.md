@@ -1,28 +1,28 @@
-# Ejercicios Resueltos de HackerRank en JavaScript
+# Solved HackerRank exercises in JavaScript
 
-## Objetivo
-- Practicar y fortalecer la lógica de programación resolviendo ejercicios de HackerRank.
-- Mejorar el dominio de la sintaxis y las buenas prácticas en JavaScript.
-- Prepararte para entrevistas técnicas usando JavaScript.
+## Objective
+- Practice and strengthen programming logic by solving HackerRank exercises.
+- Improve mastery of JavaScript syntax and best practices.
+- Prepare for technical interviews using JavaScript.
 
-## Descripción
-Este repositorio contiene soluciones a ejercicios de HackerRank, organizados por carpetas. Cada carpeta incluye un archivo `README.md` que explica el enunciado y la solución. El código es claro y directo, enfocado en la comprensión y el aprendizaje.
+## Description
+This repository contains solutions to HackerRank exercises, organized into folders. Each folder includes a `README.md` that explains the problem statement and the solution. The code is clear and direct, focused on understanding and learning.
 
-## Estructura del repositorio
-- Una carpeta por cada ejercicio.
-- Cada carpeta contiene:
-  - `README.md` con:
-    - Descripción del problema.
-    - Explicación de la solución.
-  - Archivo `.js` con el código fuente.
+## Repository structure
+- One folder for each exercise.
+- Each folder contains:
+  - `README.md` with:
+    - Problem description.
+    - Solution explanation.
+  - `.js` file with the source code.
 
-## Cómo usar este repositorio
-1. Navega por las carpetas para encontrar el ejercicio de interés.
-2. Lee la explicación y revisa el código.
-3. Ejecuta el código en tu entorno local o en un editor online para probarlo.
+## How to use this repository
+1. Browse the folders to find the exercise of interest.
+2. Read the explanation and review the code.
+3. Run the code in your local environment or in an online editor to test it.
 
-## Contribución
-¿Tienes una solución mejor o una explicación más clara? Sube tu aporte mediante un pull request.
+## Contribution
+Have a better solution or a clearer explanation? Submit your contribution via a pull request.
 
 ---
-Soluciones pensadas para aprender, practicar y avanzar en entrevistas técnicas con JavaScript.
+Solutions designed to help you learn, practice, and advance in technical interviews with JavaScript.
