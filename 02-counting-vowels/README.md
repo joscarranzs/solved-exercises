@@ -21,3 +21,10 @@ Output:
 3
 ```
 Explanation: The vowels are "e", "o", and "o".
+
+## Usage
+Run the file using Node.js:
+
+```bash
+node exercise.js
+```
