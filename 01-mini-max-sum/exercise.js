@@ -1,5 +1,3 @@
-/* Solve the Mini-Max Sum problem */
-
 // This is the input array.
 let arr = [1, 2, 3, 4, 5];
 
